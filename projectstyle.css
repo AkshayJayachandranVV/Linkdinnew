@@ -1,0 +1,504 @@
+
+body{
+
+    background:#d6cec1;
+}
+.left-div
+{
+    
+    float: left;
+    margin-left: 150px;
+    padding-top: 2px;
+    width: 30%;
+    height: 50px;
+    display: flex;
+
+}
+.logo
+{
+    float: left;
+    padding-left: 10px;
+    width:20px;
+}
+.search
+{
+    background-color: #edf3f8;
+    margin-top: 8px;
+    margin-left: 20px;
+    height:33px;
+    border-radius: 5px;
+    width: 300px;
+    
+}
+.searchbox
+{
+    background-color: #edf3f8;
+    float: left;
+    border: 0;
+    margin-top: 2px;
+    padding-right: 20px;
+    height: 28px;
+    margin-left: 8px;
+    
+
+}
+.body
+{
+
+    background-color: #f4f2ee;
+}
+.header
+{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    position: fixed;
+    margin-top: -5px;
+
+    
+}
+.search-icon
+{
+    float: left;
+    padding-left: 10px;
+    padding-top: 5px;
+    
+}
+.middle-div
+{
+    width: 40%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+ 
+
+}
+.header_icon{
+    width: 2px;
+    margin-left: 19px;
+}
+.imgicon
+{
+  height: 20px;
+  width:20px;
+}
+.textstyle
+{
+
+    color:gray;
+    text-decoration:2px;
+
+}
+.right-div
+{
+    width: 20%;
+    height: 50px;
+    float: right;
+    text-align: center;
+    margin-top: -50px;
+    justify-content: space-evenly;
+    display: flex;
+}
+.textpremium
+{
+    margin-top: 6px;
+    color:goldenrod;
+}
+.con{
+    background-color:#f4f2ee;
+    padding-top: 47px;
+}
+.content
+{
+
+    background: white;;
+    width: 300px;
+    height: 400px;
+    margin-left: 60px;
+    margin-top: 15px;
+    border-radius: 10px;
+    
+}
+.profile-2
+{
+    margin-left: 20px;
+}
+
+.content-img
+{   
+     width: 300px;
+    height: 59px;
+}
+.userimg-2
+{
+    width: 70px;
+    height: 70px;
+    margin-left: 107px;
+    margin-top: -45px;
+}
+
+.content1
+{
+    background-color: white;
+    width: 650px;
+    height: 100px;
+    margin-left: 390px;
+    margin-top: -400px;
+    border-radius: 10px;
+}
+.content1-search
+{
+        border-radius: 50px;
+        height: 50px;
+        width: 150px;
+}
+.content1-searchbar
+{
+    height: 30px;
+    width: 500px;
+    margin-left: 65px;
+    margin-top: -36px;
+    border-radius: 50px;
+    padding-left: 10px;
+    padding-top: -9px;
+    float: left
+}
+
+.userimg
+{
+    float: left;
+    width: 50px;
+    height: 47px;
+    margin-top: 7px;
+    margin-left: 5px;
+
+}
+.media-div
+{
+    height: 10px;
+    width: 84%;
+    background-color: white;
+    margin-top: 20px;
+    float: left;
+
+}
+.media
+{
+    height: 30px;
+    width: 30px;
+    margin-left: 50px;
+    margin-top: -12px;
+}
+.event-div
+{
+    height: 30px;
+    width: 50%;
+    background-color: white;
+    margin-top: -23px;
+    margin-left: 241px;
+    float: left;
+    padding-left: 100px
+}
+.event
+{
+    height: 30px;
+    width: 30px;
+    margin-left: -52px;
+}
+.article-div
+{
+    height: 10px;
+    width: 50px;
+    background-color: white;
+    float: left;
+    margin-left: 485px;
+    margin-top: -29px;
+    padding-left: 57px;
+}
+.article
+{
+    height: 30px;
+    width: 30px;
+    margin-left: -45px;
+}
+.content2
+{
+    background-color: white;
+    width: 650px;
+    height: 642px;
+    margin-left: 390px;
+    margin-top: 32px;
+    border-radius: 10px;
+}
+.content2-top
+{
+    height:50px;
+    width:50px;
+}
+.content2-div1
+{
+    height: 70px;
+    width: 62px;
+
+}
+.conte
+{
+    height:25px;
+    width:100px;
+}
+.content2-icon
+{
+    height: 50px;
+    width: 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.content2-user
+{
+    height: 50px;
+    width: 150px;
+    margin-left: 65px;
+    margin-top: -90px;
+}
+.content2-mid
+{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+}
+.amazon-content
+{
+    margin-left: 15px;
+    margin-top: 28px;
+}
+.post
+{
+    width: 100%;
+    height: 350px;
+}
+.content2-last
+{
+    width: 100%;
+    height: 300px;
+    margin-top: -5px;
+}
+.like
+{
+    height: 20px;
+    width: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.likeshare
+{
+    width:100%;
+    height:50px;
+}
+.likecount
+{
+    margin-left: 80px;
+    margin-top: -23px;
+}
+.comment
+{
+    margin-left: 470px;
+    margin-top: -33px;
+}
+.last-icon
+{
+    width: 100%;
+    height: 100px;
+    padding-top: 15px;
+}
+#amazonad
+{
+    width:100%;
+    height:400px;
+    margin-top: -20px;
+
+}
+.content3
+{
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    float: right;
+    margin-top: -774px;
+    margin-right: 55px;
+    border-radius: 10px;
+}
+.content3-text
+{
+    text-align: left;
+    margin-left: 18px;
+    margin-top: 14px;
+}
+.content4
+{
+    background-color: white;
+    width: 300px;
+    height: 270px;
+    margin-left: 61px;
+    margin-top: -362px;
+    border-radius: 10px;
+}
+
+.blue
+{
+    color: skyblue;
+    margin-left: 9px;
+    margin-top: 25px;
+}
+
+.content4-mid
+{
+    width:100%;
+    height:150px;
+}
+.select-box
+{
+    border: 0px;
+    width: 235px;
+
+}
+.content4-end
+{
+    width:100%;
+    height:70px;
+    
+
+}
+.content4-last
+{
+    text-align: center;
+    padding-top: 12px;
+}
+.last-icon
+{
+    width: 100%;
+    height:100px;
+}
+.lastdiv1
+{
+    width: 100px;
+    height:100px;
+    margin-left: 80px;
+}
+.lastimg1
+{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-top: -15px;
+}
+.lastdiv2
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 202px;
+    margin-top: -100px;
+}
+.lastimg2
+{
+    height: 30px;
+    width: 30px;
+    margin-left: 20px;
+    margin-top: -15px;
+}
+.lastdiv3
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 352px;
+    margin-top: -100px;
+     
+}
+.lastdiv4
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 480px;
+    margin-top: -100px;
+}
+.icon-name
+{
+    text-align: center;
+    margin-top: -22px;
+    margin-left: 63px;
+}
+.content5
+{
+    background-color: white;
+    width: 350px;
+    height: 319px;
+    float: right;
+    margin-top: -360px;
+    margin-right: 54px;
+    border-radius: 10px;
+}
+.userimg-3
+{
+    width: 90px;
+    height: 90px;
+    margin-left: 60px;
+    margin-top: -10px;
+}
+.google
+{
+    width: 90px;
+    height: 90px;
+    margin-left: 22px;
+
+}
+.content5-text
+{
+
+    color: gray;
+    text-align: center;
+    margin-top: 30px;
+}
+.content5-text2
+{
+    text-align: center;
+    color: grey;
+}
+.content5-Free
+{
+    height: 300px;
+    width: 300px;
+    border-radius: 50px;
+}
+.free-text
+{
+    color: blue;
+    text-align: center;
+}
+.content5-round
+{
+    height: 30px;
+    width: 150px;
+    border-radius: 50px;
+    margin-left: 102px;
+    border-block-color:#0792f5;
+    text-align: center;
+}
+    
+.freeblue
+{
+    color:#0792f5;
+    margin-left: 140px;
+    margin-top: -26px;
+}
+.middle-div div{
+    transition: transform 0.3 ease;
+}
+.middle-div div:hover{
+    transform: scale(.5);
+}
+.right-div div{
+    transition: transform 0.3 ease;
+}
+.right-div div:hover{
+    transform: scale(.5);
+}
